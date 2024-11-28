@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate developer with 4 years of experie
 🛠️ **Skills**
 * Languages: Python, JavaScript
 * Frameworks: Django
-* Tools: Git, VS Code, 
+* Tools: Git, VS Code, Jetbrains IDE
 * Softwares: FL Studio, Sketchup, MYSQL
 
 📫 **How to reach me**
