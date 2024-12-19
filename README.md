@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate developer with 4 years of experie
 * 💬 Ask me about Python, Django, Cryptography or anything tech-related!
 
 🛠️ **Skills**
-* Languages: Python, JavaScript
+* Languages: Python, Kotlin, JavaScript
 * Frameworks: Django
 * Tools: Git, VS Code, Jetbrains IDE
 * Softwares: FL Studio, Sketchup, MYSQL
