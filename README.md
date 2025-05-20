@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate developer with 4 years of experie
 * Softwares: FL Studio, Sketchup, MYSQL
 
 📫 **How to reach me**
-* Twitter: @AstronauticalAK
+* X: @AstronauticalAK
 
 <!--
 **AstronauticalCodes/AstronauticalCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
