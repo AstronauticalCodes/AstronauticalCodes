@@ -16,14 +16,6 @@ Welcome to my GitHub profile! I'm a passionate developer with 4 years of experie
 
 <br>
 
-## **Statistics** ![CircleCI status](https://circleci.com/gh/CircleCI-Public/shellcheck-orb.svg "CircleCI status")
-
-<br>
-<a href="https://github.com/the-1Riddle" target="_blank"><img height="170em" src="https://github-readme-stats.vercel.app/api?username=AstronauticalCodes&show_icons=true&bg_color=00000000&hide_border=true&hide_title=true&alt="GitHub statistics"></a>
-<a href="https://github.com/AstronauticalCodes" target="_blank" target="_blank"><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AstronauticalCodes&langs_count=8&layout=compact&bg_color=00000000&hide_border=true&hide_title=true&hide=shaderlab"></a>
-
-</br>
-
 
 ## **How to reach me** 📫
 * X: @AstronauticalAK
