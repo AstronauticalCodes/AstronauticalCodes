@@ -83,9 +83,9 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 <p align="left">
   <a href="https://twitter.com/AstronauticalAK" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)">
   </a>
-  <a href="work.abhinavkumarprasad@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <a href="https://www.linkedin.com/in/abhinav-kumar-prasad-555678320" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
